@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 2️⃣ Open the Jupyter Notebook:
 
-jupyter notebook notebook.ipynb
+jupyter notebook Movie_ratings_Casestudy.ipynb
 
 3️⃣ Run all cells to train the model and generate predictions
 
